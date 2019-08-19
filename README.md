@@ -3,6 +3,7 @@ In addition to a high performance network, a good dataset with high-quality and 
 
 # Terms & Conditions
 The dataset is available for non-commercial research purposes only.
+
 You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 
 # How to get the Password
@@ -14,11 +15,16 @@ This database is publicly available. It is free for professors and researcher sc
 4. Department: <your department>
 5. Position: <your job title>
 6. Email: <must be the email at the above mentioned institution>
-I have read and agree to the terms and conditions specified in the RAF face database webpage. 
+	
+I have read and agree to the terms and conditions. 
+
 This database will only be used for research purposes. 
+
 I will not make any part of this database available to a third party. 
+
 I'll not sell any part of this database or make any profit from its use.
 	
 # Contact Authors
 Xinlei Li, e-mail: 18110860019@fudan.edu.cn
+
 Fufeng Li ,e-mail: li_fufeng@aliyun.com
