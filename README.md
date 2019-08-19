@@ -9,7 +9,7 @@ You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for 
 # How to get the Password
 This database is publicly available. It is free for professors and researcher scientists affiliated to a University. Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed: Send an e-mail to Xinlei Li (18110860019@fudan.edu.cn) or Fufeng Li (li_fufeng@aliyun.com) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
 
-1. Subject: (DOL) Application to download the DOL Dataset          
+1. Subject: Application to download the TCMID Dataset          
 2. Name: <your first and last name>
 3. Affiliation: <University where you work>
 4. Department: <your department>
